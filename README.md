@@ -29,6 +29,6 @@ This is the months and days set from TextExpander converted for use in Typinator
 Subscribe link: `https://github.com/gregforcey/typinator-sets/raw/master/months-days.typubset`
 
 ## Short Words
-This set was inspired from a [blog post by Brett Teprstra](http://brettterpstra.com/2017/05/31/minimalist-text-expansions-a-textexpander-experiment/) where he  experimented with text expansion on short, common words such as “the” “another” and “will”. I’ve used many of his suggestions, deleted some I don’t find useful, and added some of my own to this list. 
+This set was inspired from a [blog post by Brett Terpstra](http://brettterpstra.com/2017/05/31/minimalist-text-expansions-a-textexpander-experiment/) where he  experimented with text expansion on short, common words such as “the” “another” and “will”. I’ve used many of his suggestions, deleted some I don’t find useful, and added some of my own to this list. 
 
 Subscribe link: `https://github.com/gregforcey/typinator-sets/raw/master/short-words.typubset`
